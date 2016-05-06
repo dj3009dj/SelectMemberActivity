@@ -1,0 +1,6 @@
+# SelectMemberActivity
+重点关注
+mScrollView：水平滚动条
+mSelectedGridView：是个GridView
+mTopSearchEditText：搜索框
+mSearchIconView：放大镜图标
