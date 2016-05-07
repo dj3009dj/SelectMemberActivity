@@ -30,3 +30,11 @@ mBottomGridView:搜索后的gridview
 。GridViewAdapter：设置gridview
 SearchResultAdapter：设置搜索列表listview
 uiNotifyHandler：通知scrollview去scroll
+
+
+
+DeviceDeleteFriendChooserActivity.java
+DeviceAllShareFriendActivity.java
+SmartHardwareActivity.java
+DeviceAuthorityChooser.java
+authority_chooser_item.xml
