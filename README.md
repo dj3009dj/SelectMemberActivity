@@ -38,3 +38,4 @@ DeviceAllShareFriendActivity.java
 SmartHardwareActivity.java
 DeviceAuthorityChooser.java
 authority_chooser_item.xml
+DevTransferAuthorizeActivity.java
